@@ -2,7 +2,7 @@
 const DEMO_CONFIG = {
     currentLocation: { lat: 40.7128, lng: -74.0060 },
     classLocations: {
-        'CS101': { lat: 13.629806,lng: 78.479734 , name: 'Computer Science Lab' },
+        'CS101': { lat: 13.631426,lng: 78.479436, name: 'Computer Science Lab' },
         'MATH201': { lat: 40.7130, lng: -74.0062, name: 'Mathematics Hall' },
         'PHY301': { lat: 40.7125, lng: -74.0058, name: 'Physics Laboratory' }
     },
